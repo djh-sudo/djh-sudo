@@ -1,5 +1,5 @@
-### Hi there 👋
-
+##  Hi there, I'm djh-sudo 👋
+📫 How to reach me: djh113@126.com
 <!--
 **djh-sudo/djh-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![su18's GitHub stats](https://github-readme-stats.vercel.app/api?username=djh-sudo&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djh-sudo&hide=html,css)
